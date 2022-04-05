@@ -2,3 +2,5 @@
 fetch
 pull = fetch + merge
 pull --rebase = fetch + rebase
+test
+
